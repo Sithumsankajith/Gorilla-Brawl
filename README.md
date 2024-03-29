@@ -15,7 +15,7 @@ Gorilla Brawl is a turn-based artillery game inspired by Qbasic-Gorillas, create
 - Try to hit your opponent gorilla before they hit you to win the game.
 
 ## Demo
-[Play Gorilla Brawl](link_to_play_game)
+[Play Gorilla Brawl](https://sithumsankajith.github.io/Gorilla-Brawl/)
 
 ## Screenshots
 
