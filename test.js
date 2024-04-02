@@ -1,13 +1,3 @@
-/*
-
-Learn how to code this game step-by-step on YouTube:
-
-https://www.youtube.com/watch?v=2q5EufbUEQk
-
-Follow me on 𝕏 for more: https://twitter.com/HunorBorbely
-
-*/
-
 // The state of the game
 let state = {};
 
